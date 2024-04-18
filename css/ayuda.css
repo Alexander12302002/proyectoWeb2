@@ -1,8 +1,6 @@
-<<<<<<< HEAD:css/ayuda.css
-<<<<<<< HEAD:css/ayuda.css
 @font-face {
     font-family: 'Myriad pro, regular';
-    src: url(./font/Myriad\ Pro\ Regular.ttf);
+    src: url(../storage/font/Myriad\ Pro\ Regular.ttf);
 }
 *{
     margin: 0;
@@ -170,10 +168,10 @@ display: block;
     color: white;
     top: 12.8vi;
     left: 5.3vi;
-=======
+}
 @font-face {
     font-family: 'Myriad pro, regular';
-    src: url(./font/Myriad\ Pro\ Regular.ttf);
+    src: url(../storage/font/Myriad\ Pro\ Regular.ttf);
 }
 *{
     margin: 0;
@@ -470,11 +468,10 @@ display: block;
         top: 70.5vi;
         font-size: 3.5vi;
     }
->>>>>>> d92d05b (style: :sparkles: Actualización de media query):ayuda.css
-=======
+
 @font-face {
     font-family: 'Myriad pro, regular';
-    src: url(./font/Myriad\ Pro\ Regular.ttf);
+    src: url(../storage/font/Myriad\ Pro\ Regular.ttf);
 }
 *{
     margin: 0;
@@ -774,5 +771,5 @@ display: block;
         top: 70.5vi;
         font-size: 3.5vi;
     }
->>>>>>> 2835918 (style :lipstick: Ultimo retoque en el media query):ayuda.css
+}
 }

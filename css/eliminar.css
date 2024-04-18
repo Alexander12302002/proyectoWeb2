@@ -1,7 +1,6 @@
-<<<<<<< HEAD:css/eliminar.css
 @font-face {
     font-family: 'Myriad pro, regular';
-    src: url(./font/Myriad\ Pro\ Regular.ttf);
+    src: url(../storage/font/Myriad\ Pro\ Regular.ttf);
 }
 *{
     margin: 0;
@@ -1104,11 +1103,12 @@ display: block;
         top: 5vi;
         left: 43vi;
     }
-=======
+
 @font-face {
     font-family: 'Myriad pro, regular';
-    src: url(./font/Myriad\ Pro\ Regular.ttf);
+    src: url(../storage/font/Myriad\ Pro\ Regular.ttf);
 }
+
 *{
     margin: 0;
     padding: 0;
@@ -2210,5 +2210,6 @@ display: block;
         top: 5vi;
         left: 43vi;
     }
->>>>>>> 60ccd18 (style :sparkles: Ultimo commit):eliminar.css
+
+}
 }
